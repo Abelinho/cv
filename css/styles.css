@@ -1,3 +1,4 @@
+
 a{
     color: #11999e;
     font-family: 'Merriweather', serif;
@@ -14,7 +15,11 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    overflow-x: hidden !important;
 }
+
+
+
 .contact-message{
     margin: 40px auto 60px;
     width: 40%;
